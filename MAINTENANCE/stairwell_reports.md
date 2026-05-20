@@ -93,3 +93,16 @@ Log 03 — 2026-05-21
 Pressure Level: Elevated  
 Response: Closed unnecessary corridors; posted advisory at transit stop.  
 Outcome: Fog receded but left minor interpretive residue on signage.
+Report 04 — 2026-05-21  
+Landing between Floors 1 and 2 produced a soft tonal hum when stepped on.  
+Acoustic panel inspected; no mechanical cause found.  
+Residents advised to walk with steady cadence.
+
+Report 05 — 2026-05-21  
+Dust accumulation forming in a spiral pattern on Floor 3.  
+Pattern swept but reappeared within two hours.  
+Marked as “non-urgent symbolic residue.”
+
+Report 06 — 2026-05-21  
+Temperature drop noted near the emergency exit door.  
+Thermal readings inconsistent
