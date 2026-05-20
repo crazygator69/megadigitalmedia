@@ -22,3 +22,25 @@ If the stairs begin behaving metaphorically, walk faster and avoid stopping on l
 General Advisory  
 Hollowing this week is mild but persistent.  
 Keep common areas warm, maintain conversation flow, and avoid long periods of stillness.
+Observation 05  
+Hollowing pressure fluctuated sharply near the old transit stop.  
+Residents reported brief moments of “double vision” in meaning, not sight.  
+Advised to avoid interpreting signage until readings stabilize.
+
+Observation 06  
+A low-frequency resonance passed through District 2 at dawn.  
+No structural impact.  
+Porch lamps dimmed in sympathy for approximately four seconds.
+
+Observation 07  
+Symbolic fog thickened around the municipal shed.  
+Tools inside appeared slightly “out of order,” though inventory remained correct.  
+Marked as benign atmospheric distortion.
+
+Observation 08  
+Temperature readings in the east corridor alternated between warm and cool without physical cause.  
+Residents encouraged to maintain steady conversation when passing through.
+
+General Advisory  
+Hollowing remains variable but manageable.  
+Keep porches active, maintain warm lighting, and avoid extended silence.
