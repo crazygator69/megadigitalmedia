@@ -1,8 +1,13 @@
 /FIELD_GUIDE
-    /CIVIC_TRIAD
-    /MAINTENANCE
-    /OMEGA
-    /PORCH
-    /UNFINISHED
-    /ARCHIVE
-    index.md
+    /AGI_LAB
+        /observation_protocols
+        /safety_hypotheses
+        /failure_modes
+        /red_lines
+        /test_prompts
+        /analysis_logs
+    /DRAFTS
+    /PERSONAL_NOTES
+    /SHADOW_RITUALS
+    /EMOTIONAL_MAPS
+    /UNPUBLISHED_SEDIMENT
