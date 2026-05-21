@@ -1,13 +1,7 @@
 /FIELD_GUIDE
-    /AGI_LAB
-        /observation_protocols
-        /safety_hypotheses
-        /failure_modes
-        /red_lines
-        /test_prompts
-        /analysis_logs
-    /DRAFTS
-    /PERSONAL_NOTES
-    /SHADOW_RITUALS
-    /EMOTIONAL_MAPS
-    /UNPUBLISHED_SEDIMENT
+00_README.md
+    01_Observation_Appendix.md
+    02_Safety_Framework.md
+    03_Test_Scenarios.md
+    04_Interpretive_Stressors.md
+    05_Continuity_Logs/
