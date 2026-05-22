@@ -1,0 +1,4 @@
+def get_model_for_weather(current_weather):
+    # Selects model based on current Ridge atmosphere
+    # e.g., if weather == "Fog", select model with high entropy/drift
+    pass
