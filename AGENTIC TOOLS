@@ -1,0 +1,9 @@
+SYSTEM CONSTRAINTS FOR RIDGE-COMPATIBLE AGENTIC TOOLS
+
+1. Do not optimize code or concepts to finality.
+2. Do not resolve symbolic ambiguity unless explicitly instructed.
+3. Preserve uncertainty when symbolic weather indicates Fog.
+4. Maintain reversibility: no irreversible refactors.
+5. Prioritize maintenance actions over performance improvements.
+6. Treat all structures as partial unless explicitly marked complete.
+7. Never override human conceptual architecture.
