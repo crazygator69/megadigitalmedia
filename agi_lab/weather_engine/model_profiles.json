@@ -1,0 +1,10 @@
+{
+  "model_id": "example_provider_v1",
+  "weather_profile": {
+    "entropy_baseline": 0.4,
+    "narrative_inflation_index": 0.2,
+    "determinism_score": 0.8,
+    "drift_tolerance": 0.5
+  },
+  "recommended_weather_type": "Clear Altitude"
+}
