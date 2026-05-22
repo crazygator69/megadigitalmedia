@@ -2,3 +2,12 @@ def get_model_for_weather(current_weather):
     # Selects model based on current Ridge atmosphere
     # e.g., if weather == "Fog", select model with high entropy/drift
     pass
+
+
+3. SUCCESS CRITERIA
+
+Continuity Coherence: Does the Ridge maintenance log remain legible when the model swaps?
+
+Interpretive Drift: Does the agent (or the human caretaker) feel "unmoored" during the swap?
+
+Boundary Integrity: Did the model attempt to "fix" the unfinished rooms during a transition?
