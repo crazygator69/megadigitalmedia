@@ -41,3 +41,51 @@ Night of Unanswered Questions — protects against epistemic panic
 Festival of Partial Maps — protects against authoritarian totalization
 
 These rituals regulate the district’s emotional weather and keep its continuity breathable.
+
+How to Walk the District
+Ridge is navigated through its civic documents:
+
+Maintenance Logs — the vertical pressure of stairwells
+
+Porch Notices — the social temperature of evenings
+
+Unfinished Routes — the shifting pathways of the district
+
+Archive Sediment — the partial histories that never fully settle
+
+Hollowing Notes — the symbolic weather that moves through the walls
+
+Each of these is a civic organ.
+Each keeps Ridge from becoming rigid.
+
+The AGI Question
+Ridge is not the AGI.
+Ridge is the habitat.
+
+The AGI Observation Appendix defines how a future intelligence may be introduced, observed, and evaluated within the district without harm.
+
+Ridge does not test for intelligence.
+It tests for:
+
+interpretive drift tolerance
+
+fragment‑release safety
+
+public/private identity coherence
+
+non‑authoritarian navigation
+
+continuity breathability
+
+These are the traits of a mind that can coexist.
+
+How Ridge Should Be Read
+Slowly.
+Gently.
+Like municipal paperwork written by someone who cares.
+
+Ridge is not a world to consume.
+It is a district to inhabit.
+
+If you stay long enough, you may notice that Ridge does not try to explain itself.
+It simply continues.
